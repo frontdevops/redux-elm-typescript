@@ -1,0 +1,20 @@
+{
+  "name": "redux-elm-typescript",
+  "version": "0.1.0",
+  "description": "DefinitelyTyped for React-Elm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontdevops/redux-elm-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontdevops/redux-elm-typescript/issues"
+  },
+  "homepage": "https://github.com/frontdevops/redux-elm-typescript#readme"
+}
