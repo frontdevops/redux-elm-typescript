@@ -1,2 +1,2 @@
 # redux-elm-typescript
-DefinitelyTyped for React-Elm
+DefinitelyTyped for Redux-elm
