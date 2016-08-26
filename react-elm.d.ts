@@ -2,7 +2,7 @@
 
 declare module "redux-elm" {
 
-	import ReactElement = __React.ReactElement;
+	import ReactElement = require('react/react-element');
 
 	export type Action = Object;
 	export type StatelessReactComponent = (props :Object) => ReactElement;
